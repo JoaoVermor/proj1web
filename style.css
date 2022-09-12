@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/6c/ed/c3/6cedc34366e9cf8b2cc76d39d508f057.jpg);
+}
+.H1{
+    display: inline-block;
+}
+
+.C1{
+    width: 25%;
+    height: 25%;
+    padding: 1rem;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin: 10px;
+}
+
+.T1{
+    text-shadow: 2px 2px 5px rgb(147, 0, 0);;
+}
+
+#I1{
+    object-position: center top;
+}
+
+#I2{
+    object-position: right top;
+    width: 15%;
+    height: 15%;
+
+}
